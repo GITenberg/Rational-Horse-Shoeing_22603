@@ -1,0 +1,27 @@
+_repo: Rational-Horse-Shoeing_22603
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Russell, John E. (John Edwards)
+    birthdate: 1834
+    deathdate: 1903
+    gutenberg_agent_id: '25438'
+    url: http://www.gutenberg.org/2009/agents/25438
+description: ''
+gutenberg_issued: '2007-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22603'
+  lccn: '12019762'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'Horseshoeing'
+title: Rational Horse-Shoeing
+url: http://www.gutenberg.org/ebooks/22603
